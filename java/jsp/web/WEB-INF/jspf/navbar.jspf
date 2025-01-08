@@ -1,0 +1,70 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<%@page import="java.util.ArrayList" %>
+<%
+    if(application.getAttribute("users") == null){
+        application.setAttribute("users", new ArrayList());
+    }
+    ArrayList<String> users = (ArrayList) application.getAttribute("users");
+    
+    if (request.getParameter("session-login") != null && session.getAttribute("name") == null) {
+        if(request.getParameter("session-name").isBlank() || request.getParameter("session-name").isEmpty()) {
+            response.sendRedirect(request.getRequestURI() + "?invalidName");
+            return;
+        }
+        session.setAttribute("name", request.getParameter("session-name"));
+        users.add((String)session.getAttribute("name"));
+        response.sendRedirect(request.getRequestURI());
+    } else if (request.getParameter("session-logout") != null) {
+        if(users.contains(session.getAttribute("name"))) users.remove(session.getAttribute("name"));
+        session.removeAttribute("name");
+        response.sendRedirect(request.getRequestURI());
+    }
+    String userName = (String) session.getAttribute("name");
+%>
+
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="${pageContext.request.contextPath}/index.jsp">
+            <i class="bi bi-people"></i>
+            SessionApp
+        </a>
+
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" href="${pageContext.request.contextPath}/index.jsp">Início</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="${pageContext.request.contextPath}/users.jsp">Users</a>
+                </li>
+            </ul>
+            <% if (userName != null) { %>
+                <form class="d-flex">
+                    <span class="navbar-text me-2">
+                        Olá, ${name}
+                    </span>
+                    <button class="btn btn-outline-success" name="session-logout" type="submit">Sair</button>
+                </form>
+            <% } %>
+        </div>
+    </div>
+</nav>
+        
+<% if(request.getParameter("invalidName") != null) {%>
+<div style="padding-top:6px; color:red" class="m-2">
+        <p>
+            Nome inválido
+        </p>
+    </div>
+<% } %>
+
+<% if (userName == null) {%>
+    <div class="m-2"> 
+        <%@include file="login-form.jspf" %> 
+    </div>
+<%}%>
+

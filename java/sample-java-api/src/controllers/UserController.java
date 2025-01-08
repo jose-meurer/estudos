@@ -19,12 +19,10 @@ public class UserController implements HttpHandler {
     private static List<User> users = new ArrayList<>();
     private final UserView userView = new UserView();
 
-    public UserController() {
-        if(users.isEmpty()) {
-            users.add(new User(UUID.randomUUID().toString(), "Alex Brown", "alex@gmail.com"));
-            users.add(new User(UUID.randomUUID().toString(), "Maria Green", "maria@gmail.com"));
-            users.add(new User(UUID.randomUUID().toString(), "Bob Blue", "bob@gmail.com"));
-        }
+    static {
+        users.add(new User(UUID.randomUUID().toString(), "Alex Brown", "alex@gmail.com"));
+        users.add(new User(UUID.randomUUID().toString(), "Maria Green", "maria@gmail.com"));
+        users.add(new User(UUID.randomUUID().toString(), "Bob Blue", "bob@gmail.com"));
     }
 
     @Override
