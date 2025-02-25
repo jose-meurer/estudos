@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\bin\Debug\net8.0\MeuPrimeiroPrograma.exe
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\bin\Debug\net8.0\MeuPrimeiroPrograma.deps.json
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\bin\Debug\net8.0\MeuPrimeiroPrograma.runtimeconfig.json
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\bin\Debug\net8.0\MeuPrimeiroPrograma.dll
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\bin\Debug\net8.0\MeuPrimeiroPrograma.pdb
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\obj\Debug\net8.0\MeuPrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\obj\Debug\net8.0\MeuPrimeiroPrograma.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\obj\Debug\net8.0\MeuPrimeiroPrograma.AssemblyInfo.cs
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\obj\Debug\net8.0\MeuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\obj\Debug\net8.0\MeuPrimeiroPrograma.sourcelink.json
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\obj\Debug\net8.0\MeuPrimeiroPrograma.dll
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\obj\Debug\net8.0\refint\MeuPrimeiroPrograma.dll
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\obj\Debug\net8.0\MeuPrimeiroPrograma.pdb
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\obj\Debug\net8.0\MeuPrimeiroPrograma.genruntimeconfig.cache
+D:\temp\estudos\cSharp\MeuPrimeiroPrograma\obj\Debug\net8.0\ref\MeuPrimeiroPrograma.dll
