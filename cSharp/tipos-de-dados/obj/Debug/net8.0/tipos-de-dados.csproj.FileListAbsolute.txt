@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\tipos-de-dados\bin\Debug\net8.0\tipos-de-dados.exe
+D:\temp\estudos\cSharp\tipos-de-dados\bin\Debug\net8.0\tipos-de-dados.deps.json
+D:\temp\estudos\cSharp\tipos-de-dados\bin\Debug\net8.0\tipos-de-dados.runtimeconfig.json
+D:\temp\estudos\cSharp\tipos-de-dados\bin\Debug\net8.0\tipos-de-dados.dll
+D:\temp\estudos\cSharp\tipos-de-dados\bin\Debug\net8.0\tipos-de-dados.pdb
+D:\temp\estudos\cSharp\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.AssemblyInfo.cs
+D:\temp\estudos\cSharp\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.sourcelink.json
+D:\temp\estudos\cSharp\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.dll
+D:\temp\estudos\cSharp\tipos-de-dados\obj\Debug\net8.0\refint\tipos-de-dados.dll
+D:\temp\estudos\cSharp\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.pdb
+D:\temp\estudos\cSharp\tipos-de-dados\obj\Debug\net8.0\tipos-de-dados.genruntimeconfig.cache
+D:\temp\estudos\cSharp\tipos-de-dados\obj\Debug\net8.0\ref\tipos-de-dados.dll
