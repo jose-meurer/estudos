@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\nullableTypes\bin\Debug\net8.0\nullableTypes.exe
+D:\temp\estudos\cSharp\nullableTypes\bin\Debug\net8.0\nullableTypes.deps.json
+D:\temp\estudos\cSharp\nullableTypes\bin\Debug\net8.0\nullableTypes.runtimeconfig.json
+D:\temp\estudos\cSharp\nullableTypes\bin\Debug\net8.0\nullableTypes.dll
+D:\temp\estudos\cSharp\nullableTypes\bin\Debug\net8.0\nullableTypes.pdb
+D:\temp\estudos\cSharp\nullableTypes\obj\Debug\net8.0\nullableTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\nullableTypes\obj\Debug\net8.0\nullableTypes.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\nullableTypes\obj\Debug\net8.0\nullableTypes.AssemblyInfo.cs
+D:\temp\estudos\cSharp\nullableTypes\obj\Debug\net8.0\nullableTypes.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\nullableTypes\obj\Debug\net8.0\nullableTypes.sourcelink.json
+D:\temp\estudos\cSharp\nullableTypes\obj\Debug\net8.0\nullableTypes.dll
+D:\temp\estudos\cSharp\nullableTypes\obj\Debug\net8.0\refint\nullableTypes.dll
+D:\temp\estudos\cSharp\nullableTypes\obj\Debug\net8.0\nullableTypes.pdb
+D:\temp\estudos\cSharp\nullableTypes\obj\Debug\net8.0\nullableTypes.genruntimeconfig.cache
+D:\temp\estudos\cSharp\nullableTypes\obj\Debug\net8.0\ref\nullableTypes.dll
