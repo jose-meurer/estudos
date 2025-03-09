@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.exe
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.deps.json
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\bin\Debug\net8.0\OperadoresIncrementoDecremento.pdb
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\obj\Debug\net8.0\refint\OperadoresIncrementoDecremento.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.pdb
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\obj\Debug\net8.0\OperadoresIncrementoDecremento.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadoresIncrementoDecremento\obj\Debug\net8.0\ref\OperadoresIncrementoDecremento.dll

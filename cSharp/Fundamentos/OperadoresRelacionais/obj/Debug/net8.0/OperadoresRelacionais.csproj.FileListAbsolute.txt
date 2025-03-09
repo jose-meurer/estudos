@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\bin\Debug\net8.0\OperadoresRelacionais.exe
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\bin\Debug\net8.0\OperadoresRelacionais.deps.json
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\bin\Debug\net8.0\OperadoresRelacionais.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\bin\Debug\net8.0\OperadoresRelacionais.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\bin\Debug\net8.0\OperadoresRelacionais.pdb
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\obj\Debug\net8.0\refint\OperadoresRelacionais.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.pdb
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\obj\Debug\net8.0\OperadoresRelacionais.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadoresRelacionais\obj\Debug\net8.0\ref\OperadoresRelacionais.dll

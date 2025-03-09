@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\bin\Debug\net8.0\OperadorTernario.exe
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\bin\Debug\net8.0\OperadorTernario.deps.json
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\bin\Debug\net8.0\OperadorTernario.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\bin\Debug\net8.0\OperadorTernario.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\bin\Debug\net8.0\OperadorTernario.pdb
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\obj\Debug\net8.0\OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\obj\Debug\net8.0\OperadorTernario.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\obj\Debug\net8.0\OperadorTernario.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\obj\Debug\net8.0\OperadorTernario.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\obj\Debug\net8.0\OperadorTernario.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\obj\Debug\net8.0\OperadorTernario.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\obj\Debug\net8.0\refint\OperadorTernario.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\obj\Debug\net8.0\OperadorTernario.pdb
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\obj\Debug\net8.0\OperadorTernario.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadorTernario\obj\Debug\net8.0\ref\OperadorTernario.dll

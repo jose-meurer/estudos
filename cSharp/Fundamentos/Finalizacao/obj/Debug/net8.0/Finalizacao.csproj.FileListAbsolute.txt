@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\obj\Debug\net8.0\Finalizacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\obj\Debug\net8.0\Finalizacao.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\obj\Debug\net8.0\Finalizacao.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\obj\Debug\net8.0\Finalizacao.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\obj\Debug\net8.0\Finalizacao.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\bin\Debug\net8.0\Finalizacao.exe
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\bin\Debug\net8.0\Finalizacao.deps.json
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\bin\Debug\net8.0\Finalizacao.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\bin\Debug\net8.0\Finalizacao.dll
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\bin\Debug\net8.0\Finalizacao.pdb
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\obj\Debug\net8.0\Finalizacao.dll
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\obj\Debug\net8.0\refint\Finalizacao.dll
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\obj\Debug\net8.0\Finalizacao.pdb
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\obj\Debug\net8.0\Finalizacao.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\Finalizacao\obj\Debug\net8.0\ref\Finalizacao.dll

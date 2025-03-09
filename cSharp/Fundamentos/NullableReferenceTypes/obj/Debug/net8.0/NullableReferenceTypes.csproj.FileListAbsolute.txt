@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.exe
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.deps.json
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.dll
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\bin\Debug\net8.0\NullableReferenceTypes.pdb
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.dll
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\obj\Debug\net8.0\refint\NullableReferenceTypes.dll
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.pdb
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\obj\Debug\net8.0\NullableReferenceTypes.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\NullableReferenceTypes\obj\Debug\net8.0\ref\NullableReferenceTypes.dll

@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.exe
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.deps.json
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\bin\Debug\net8.0\OperadoresLogicos.pdb
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\obj\Debug\net8.0\refint\OperadoresLogicos.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.pdb
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\obj\Debug\net8.0\OperadoresLogicos.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadoresLogicos\obj\Debug\net8.0\ref\OperadoresLogicos.dll

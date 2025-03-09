@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\Constantes\bin\Debug\net8.0\Constantes.exe
+D:\temp\estudos\cSharp\Fundamentos\Constantes\bin\Debug\net8.0\Constantes.deps.json
+D:\temp\estudos\cSharp\Fundamentos\Constantes\bin\Debug\net8.0\Constantes.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\Constantes\bin\Debug\net8.0\Constantes.dll
+D:\temp\estudos\cSharp\Fundamentos\Constantes\bin\Debug\net8.0\Constantes.pdb
+D:\temp\estudos\cSharp\Fundamentos\Constantes\obj\Debug\net8.0\Constantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\Constantes\obj\Debug\net8.0\Constantes.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\Constantes\obj\Debug\net8.0\Constantes.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\Constantes\obj\Debug\net8.0\Constantes.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\Constantes\obj\Debug\net8.0\Constantes.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\Constantes\obj\Debug\net8.0\Constantes.dll
+D:\temp\estudos\cSharp\Fundamentos\Constantes\obj\Debug\net8.0\refint\Constantes.dll
+D:\temp\estudos\cSharp\Fundamentos\Constantes\obj\Debug\net8.0\Constantes.pdb
+D:\temp\estudos\cSharp\Fundamentos\Constantes\obj\Debug\net8.0\Constantes.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\Constantes\obj\Debug\net8.0\ref\Constantes.dll
