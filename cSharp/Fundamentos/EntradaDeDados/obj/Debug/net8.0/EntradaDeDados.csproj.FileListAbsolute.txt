@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.exe
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.deps.json
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.dll
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\bin\Debug\net8.0\EntradaDeDados.pdb
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.dll
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\obj\Debug\net8.0\refint\EntradaDeDados.dll
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.pdb
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\obj\Debug\net8.0\EntradaDeDados.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\EntradaDeDados\obj\Debug\net8.0\ref\EntradaDeDados.dll

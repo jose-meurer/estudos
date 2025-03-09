@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\bin\Debug\net8.0\Identificadores.exe
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\bin\Debug\net8.0\Identificadores.deps.json
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\bin\Debug\net8.0\Identificadores.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\bin\Debug\net8.0\Identificadores.dll
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\bin\Debug\net8.0\Identificadores.pdb
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\obj\Debug\net8.0\Identificadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\obj\Debug\net8.0\Identificadores.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\obj\Debug\net8.0\Identificadores.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\obj\Debug\net8.0\Identificadores.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\obj\Debug\net8.0\Identificadores.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\obj\Debug\net8.0\Identificadores.dll
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\obj\Debug\net8.0\refint\Identificadores.dll
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\obj\Debug\net8.0\Identificadores.pdb
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\obj\Debug\net8.0\Identificadores.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\Identificadores\obj\Debug\net8.0\ref\Identificadores.dll

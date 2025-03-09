@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\bin\Release\net8.0\ConversaoDeTipos.exe
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\bin\Release\net8.0\ConversaoDeTipos.deps.json
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\bin\Release\net8.0\ConversaoDeTipos.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\bin\Release\net8.0\ConversaoDeTipos.dll
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\bin\Release\net8.0\ConversaoDeTipos.pdb
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\obj\Release\net8.0\ConversaoDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\obj\Release\net8.0\ConversaoDeTipos.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\obj\Release\net8.0\ConversaoDeTipos.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\obj\Release\net8.0\ConversaoDeTipos.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\obj\Release\net8.0\ConversaoDeTipos.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\obj\Release\net8.0\ConversaoDeTipos.dll
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\obj\Release\net8.0\refint\ConversaoDeTipos.dll
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\obj\Release\net8.0\ConversaoDeTipos.pdb
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\obj\Release\net8.0\ConversaoDeTipos.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\ConversaoDeTipos\obj\Release\net8.0\ref\ConversaoDeTipos.dll

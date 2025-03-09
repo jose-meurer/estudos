@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\DateTime\bin\Debug\net8.0\DateTime.exe
+D:\temp\estudos\cSharp\Fundamentos\DateTime\bin\Debug\net8.0\DateTime.deps.json
+D:\temp\estudos\cSharp\Fundamentos\DateTime\bin\Debug\net8.0\DateTime.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\DateTime\bin\Debug\net8.0\DateTime.dll
+D:\temp\estudos\cSharp\Fundamentos\DateTime\bin\Debug\net8.0\DateTime.pdb
+D:\temp\estudos\cSharp\Fundamentos\DateTime\obj\Debug\net8.0\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\DateTime\obj\Debug\net8.0\DateTime.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\DateTime\obj\Debug\net8.0\DateTime.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\DateTime\obj\Debug\net8.0\DateTime.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\DateTime\obj\Debug\net8.0\DateTime.dll
+D:\temp\estudos\cSharp\Fundamentos\DateTime\obj\Debug\net8.0\refint\DateTime.dll
+D:\temp\estudos\cSharp\Fundamentos\DateTime\obj\Debug\net8.0\DateTime.pdb
+D:\temp\estudos\cSharp\Fundamentos\DateTime\obj\Debug\net8.0\DateTime.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\DateTime\obj\Debug\net8.0\ref\DateTime.dll

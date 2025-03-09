@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.exe
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.deps.json
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\bin\Debug\net8.0\OperadoresAritmeticos.pdb
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\obj\Debug\net8.0\refint\OperadoresAritmeticos.dll
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.pdb
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\obj\Debug\net8.0\OperadoresAritmeticos.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\OperadoresAritmeticos\obj\Debug\net8.0\ref\OperadoresAritmeticos.dll

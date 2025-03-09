@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\bin\Debug\net8.0\SequenciaDeEscapes.exe
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\bin\Debug\net8.0\SequenciaDeEscapes.deps.json
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\bin\Debug\net8.0\SequenciaDeEscapes.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\bin\Debug\net8.0\SequenciaDeEscapes.dll
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\bin\Debug\net8.0\SequenciaDeEscapes.pdb
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\obj\Debug\net8.0\SequenciaDeEscapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\obj\Debug\net8.0\SequenciaDeEscapes.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\obj\Debug\net8.0\SequenciaDeEscapes.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\obj\Debug\net8.0\SequenciaDeEscapes.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\obj\Debug\net8.0\SequenciaDeEscapes.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\obj\Debug\net8.0\SequenciaDeEscapes.dll
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\obj\Debug\net8.0\refint\SequenciaDeEscapes.dll
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\obj\Debug\net8.0\SequenciaDeEscapes.pdb
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\obj\Debug\net8.0\SequenciaDeEscapes.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\SequenciaDeEscapes\obj\Debug\net8.0\ref\SequenciaDeEscapes.dll

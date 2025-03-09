@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\bin\Debug\net8.0\SaidaDadosFormatacao.exe
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\bin\Debug\net8.0\SaidaDadosFormatacao.deps.json
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\bin\Debug\net8.0\SaidaDadosFormatacao.runtimeconfig.json
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\bin\Debug\net8.0\SaidaDadosFormatacao.dll
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\bin\Debug\net8.0\SaidaDadosFormatacao.pdb
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\obj\Debug\net8.0\SaidaDadosFormatacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\obj\Debug\net8.0\SaidaDadosFormatacao.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\obj\Debug\net8.0\SaidaDadosFormatacao.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\obj\Debug\net8.0\SaidaDadosFormatacao.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\obj\Debug\net8.0\SaidaDadosFormatacao.sourcelink.json
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\obj\Debug\net8.0\SaidaDadosFormatacao.dll
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\obj\Debug\net8.0\refint\SaidaDadosFormatacao.dll
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\obj\Debug\net8.0\SaidaDadosFormatacao.pdb
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\obj\Debug\net8.0\SaidaDadosFormatacao.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Fundamentos\SaidaDadosFormatacao\obj\Debug\net8.0\ref\SaidaDadosFormatacao.dll
