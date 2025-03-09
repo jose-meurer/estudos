@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35818.85 d17.13
+VisualStudioVersion = 17.13.35818.85
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados", "TiposDeDados\TiposDeDados.csproj", "{0126AC0A-3EF8-4365-94BB-4975203BA16B}"
 EndProject
@@ -38,6 +38,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {858060D6-9CE3-4E57-9465-6324CACF3BB4}
+		SolutionGuid = {3971828D-B622-41A8-9B6F-EE6BDB890DF4}
 	EndGlobalSection
 EndGlobal
