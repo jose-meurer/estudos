@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\bin\Debug\net8.0\Enums.exe
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\bin\Debug\net8.0\Enums.deps.json
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\bin\Debug\net8.0\Enums.runtimeconfig.json
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\bin\Debug\net8.0\Enums.dll
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\bin\Debug\net8.0\Enums.pdb
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\obj\Debug\net8.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\obj\Debug\net8.0\Enums.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\obj\Debug\net8.0\Enums.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\obj\Debug\net8.0\Enums.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\obj\Debug\net8.0\Enums.sourcelink.json
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\obj\Debug\net8.0\Enums.dll
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\obj\Debug\net8.0\refint\Enums.dll
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\obj\Debug\net8.0\Enums.pdb
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\obj\Debug\net8.0\Enums.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Metodos-Classes\Enums\obj\Debug\net8.0\ref\Enums.dll

@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\bin\Debug\net8.0\Strutcs.exe
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\bin\Debug\net8.0\Strutcs.deps.json
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\bin\Debug\net8.0\Strutcs.runtimeconfig.json
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\bin\Debug\net8.0\Strutcs.dll
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\bin\Debug\net8.0\Strutcs.pdb
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\obj\Debug\net8.0\Strutcs.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\obj\Debug\net8.0\Strutcs.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\obj\Debug\net8.0\Strutcs.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\obj\Debug\net8.0\Strutcs.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\obj\Debug\net8.0\Strutcs.sourcelink.json
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\obj\Debug\net8.0\Strutcs.dll
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\obj\Debug\net8.0\refint\Strutcs.dll
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\obj\Debug\net8.0\Strutcs.pdb
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\obj\Debug\net8.0\Strutcs.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Metodos-Classes\Strutcs\obj\Debug\net8.0\ref\Strutcs.dll
