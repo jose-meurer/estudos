@@ -1,0 +1,5 @@
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\SerializacaoDesserializacao\obj\Debug\net8.0\Binaria.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\SerializacaoDesserializacao\obj\Debug\net8.0\Binaria.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\SerializacaoDesserializacao\obj\Debug\net8.0\Binaria.AssemblyInfo.cs
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\SerializacaoDesserializacao\obj\Debug\net8.0\Binaria.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\SerializacaoDesserializacao\obj\Debug\net8.0\Binaria.sourcelink.json

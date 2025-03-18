@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\bin\Debug\net8.0\JSON.exe
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\bin\Debug\net8.0\JSON.deps.json
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\bin\Debug\net8.0\JSON.runtimeconfig.json
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\bin\Debug\net8.0\JSON.dll
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\bin\Debug\net8.0\JSON.pdb
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\obj\Debug\net8.0\JSON.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\obj\Debug\net8.0\JSON.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\obj\Debug\net8.0\JSON.AssemblyInfo.cs
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\obj\Debug\net8.0\JSON.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\obj\Debug\net8.0\JSON.sourcelink.json
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\obj\Debug\net8.0\JSON.dll
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\obj\Debug\net8.0\refint\JSON.dll
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\obj\Debug\net8.0\JSON.pdb
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\obj\Debug\net8.0\JSON.genruntimeconfig.cache
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\JSON\obj\Debug\net8.0\ref\JSON.dll

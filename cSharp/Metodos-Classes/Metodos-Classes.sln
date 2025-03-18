@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strutcs", "Strutcs\Strutcs.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enums", "Enums\Enums.csproj", "{203C1CD8-CAB3-4A5A-ACFB-3781D9A46E75}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{F7C9BD61-4049-406F-BC70-6A017D4C5C9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{203C1CD8-CAB3-4A5A-ACFB-3781D9A46E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{203C1CD8-CAB3-4A5A-ACFB-3781D9A46E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{203C1CD8-CAB3-4A5A-ACFB-3781D9A46E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7C9BD61-4049-406F-BC70-6A017D4C5C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C9BD61-4049-406F-BC70-6A017D4C5C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C9BD61-4049-406F-BC70-6A017D4C5C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C9BD61-4049-406F-BC70-6A017D4C5C9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

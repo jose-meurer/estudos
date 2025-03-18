@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binaria", "SerializacaoDesserializacao\Binaria.csproj", "{5EDB1DDC-6618-475D-8498-F1BB5BAA0EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML", "XML\XML.csproj", "{4A364968-DA80-484E-A2BF-C4B117889B91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON", "JSON\JSON.csproj", "{F4419471-D47E-48EB-8D20-13CD7EF39601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EDB1DDC-6618-475D-8498-F1BB5BAA0EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDB1DDC-6618-475D-8498-F1BB5BAA0EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDB1DDC-6618-475D-8498-F1BB5BAA0EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDB1DDC-6618-475D-8498-F1BB5BAA0EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A364968-DA80-484E-A2BF-C4B117889B91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A364968-DA80-484E-A2BF-C4B117889B91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A364968-DA80-484E-A2BF-C4B117889B91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A364968-DA80-484E-A2BF-C4B117889B91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4419471-D47E-48EB-8D20-13CD7EF39601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4419471-D47E-48EB-8D20-13CD7EF39601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4419471-D47E-48EB-8D20-13CD7EF39601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4419471-D47E-48EB-8D20-13CD7EF39601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE500A52-D378-4DEF-B984-F431356FCEB6}
+	EndGlobalSection
+EndGlobal

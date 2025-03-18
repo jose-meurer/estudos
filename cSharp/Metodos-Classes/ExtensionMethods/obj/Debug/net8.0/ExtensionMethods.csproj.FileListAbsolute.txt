@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.exe
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.deps.json
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.runtimeconfig.json
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.dll
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\bin\Debug\net8.0\ExtensionMethods.pdb
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.AssemblyInfo.cs
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.sourcelink.json
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.dll
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\obj\Debug\net8.0\refint\ExtensionMethods.dll
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.pdb
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\obj\Debug\net8.0\ExtensionMethods.genruntimeconfig.cache
+D:\temp\estudos\cSharp\Metodos-Classes\ExtensionMethods\obj\Debug\net8.0\ref\ExtensionMethods.dll

@@ -1,0 +1,15 @@
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\bin\Debug\net8.0\XML.exe
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\bin\Debug\net8.0\XML.deps.json
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\bin\Debug\net8.0\XML.runtimeconfig.json
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\bin\Debug\net8.0\XML.dll
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\bin\Debug\net8.0\XML.pdb
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\obj\Debug\net8.0\XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\obj\Debug\net8.0\XML.AssemblyInfoInputs.cache
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\obj\Debug\net8.0\XML.AssemblyInfo.cs
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\obj\Debug\net8.0\XML.csproj.CoreCompileInputs.cache
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\obj\Debug\net8.0\XML.sourcelink.json
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\obj\Debug\net8.0\XML.dll
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\obj\Debug\net8.0\refint\XML.dll
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\obj\Debug\net8.0\XML.pdb
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\obj\Debug\net8.0\XML.genruntimeconfig.cache
+D:\temp\estudos\cSharp\SerializacaoDesserializacao\XML\obj\Debug\net8.0\ref\XML.dll
